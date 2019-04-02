@@ -1,0 +1,20 @@
+{
+    "name": "Derek Yin",
+    "email": "derek.yin@uwaterloo.ca",
+    "about": "currently 2nd year soft eng student @UWaterloo !",
+    "tools": "Docker, Google Cloud Platform, Git",
+    "languages": "Go, Python, C++",
+    "experiences": [
+        {
+            "company": "Shopify",
+            "dates": "Jan - April 2019",
+            "title": "Software Engineering (Data) intern",
+            "about": "Improving tools that automate Shopify's data infrastructure"
+        },{
+            "company": "Bold Commerce",
+            "dates": "May - Aug 2018",
+            "title": "Software Engineering intern",
+            "about": "Extended and developed features on micro services for Bold cashier using Go and Docker"
+        }
+    ]
+}
