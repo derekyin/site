@@ -1,6 +1,3 @@
-# site
+# my personal site
 
-my personal site
-https://derekyin.me
-
-hosted on Firebase, deployments via Travis CI
+hosted on Firebase, deployment via Travis CI on merge to master
