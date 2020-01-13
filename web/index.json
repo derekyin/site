@@ -1,10 +1,16 @@
 {
     "name": "Derek Yin",
     "email": "derek.yin@uwaterloo.ca",
-    "about": "2nd year software engineering student @UWaterloo !",
+    "about": "3rd year software engineering student @UWaterloo!",
     "tools": "Docker, Google Cloud Platform, Git",
     "languages": "Go, Python, C++",
     "experiences": [
+        {
+            "company": "Shopify, Shopify Scripts",
+            "dates": "Sept - Dec 2019",
+            "title": "Software Engineering intern",
+            "about": "Developing software for the Shopify Scripts platform in Ruby"
+        },
         {
             "company": "Shopify, Data Infrastructure",
             "dates": "Jan - April 2019",
