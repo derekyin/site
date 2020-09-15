@@ -1,11 +1,17 @@
 {
     "name": "Derek Yin",
     "email": "derek.yin@uwaterloo.ca",
-    "about": "3rd year software engineering student @UWaterloo!",
+    "about": "3rd year computer science student @UWaterloo!",
     "github": "https://github.com/derekyin",
-    "tools": "Docker, Google Cloud Platform, Git",
-    "languages": "Go, Python, C++",
+    "tools": "Docker, Google Cloud Platform, AWS, Kubernetes, NGINX, SQL/NoSQL",
+    "languages": "Go, Python, Ruby, Java, C++",
     "experiences": [
+        {
+            "company": "BitGo, Portfolio",
+            "dates": "May - Aug 2020",
+            "title": "Software Engineering intern",
+            "about": "Developing features and working on infrastructure improvements in Go"
+        },
         {
             "company": "Shopify, Shopify Scripts",
             "dates": "Sept - Dec 2019",
